@@ -1,0 +1,20 @@
+{
+    "id": "multi_search",
+    "version": "0.1.0-dev",
+    "name": "MultiSearch",
+    "description": {
+        "en_us": "Multi search",
+        "zh_cn": "MCDR 多源搜索"
+    },
+    "author": [
+        "Ra1ny_Yuki"
+    ],
+    "link": "https://github.com/Lazy-Bing-Server/MultiSearch-MCDR",
+    "dependencies": {
+        "mcdreforged": ">=2.1.0"
+    },
+
+    "resources": [
+        "sample_language.yml"
+    ]
+}
